@@ -1,4 +1,4 @@
-# HacktoberFest2020 - https://www.udemy.com/home/my-courses/learning/
+# HacktoberFest2020 
 
 Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
