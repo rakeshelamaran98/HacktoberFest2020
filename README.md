@@ -19,7 +19,7 @@ Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
 
 # 📌About
-This Repository is to curate the resources used by an individual. It can be in the form of some kind of learning material,Links, scripts, projects, algorithms, etc.
+This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
 
 
 #  How to Contribute?
