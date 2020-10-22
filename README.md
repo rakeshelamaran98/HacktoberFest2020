@@ -39,6 +39,8 @@ Git Installation Video - https://youtu.be/JMsGZ0KR3sY
  - Install [Visual Studio Code](https://youtu.be/KpzkPlh_HsU)
  - How to Contribute - 
  
+ # Each and Every Contributor Name and Profile will be added in contributors list with proper credits
+ 
 
 
 
