@@ -20,12 +20,21 @@
 # Prerequisties
 
 
-✔️ What is hacktoberfest,opensource and Why you are doing this?
-✔️ Git Installation and Basic knowledge on how to pull requests
+- ✔️ What is hacktoberfest,opensource and Why you are doing this?
+- ✔️ Git Installation and Basic knowledge on how to pull requests
 
 
 
 Git Installation Video - https://youtu.be/JMsGZ0KR3sY
 
 # Give a star 🌟. Get your projects merged quickly on valid pull requests.
+
+# Useful Links
+
+
+ - Read HacktoberFest 2020 - HacktoberFest2020.md
+ - Steps to contribute - Contribute.Md
+ 
+
+
 
