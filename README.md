@@ -26,7 +26,7 @@
 - ✔️ Git Installation and Basic knowledge on how to pull requests
 - ✔️ Visual Studio Code 
 
-# Give a star 🌟. Get your projects merged quickly on valid pull requests.
+# Follow and Give a star 🌟. Get your projects merged quickly on valid pull requests.
 
 # Useful Links
 
