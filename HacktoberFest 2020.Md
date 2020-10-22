@@ -13,6 +13,12 @@ To know more read the blogs:
 [Blog1](https://dev.to/biplov/everything-you-need-to-know-about-hacktoberfest-2020-4ilj)
 [Blog2](https://medium.com/@yobasu2015/hacktoberfest-2020-all-you-need-to-know-e684b7f44bd)
 
+Signup for HacktoberFest 2020:
+
+
+
+It's not late.Don't wait make your 4 valid pull requests now
+
 
 
 
