@@ -1,5 +1,11 @@
 # Note: If Steps felt difficult for you to understand see the video right [Here](https://www.youtube.com/results?search_query=how+to+add+link+in+github+file) 
 
+# Where to Find Resources?
+
+- Your BookMarks
+- Your Linkedin Saved Items
+- Your Starred items in anywhere(Community Groups,What's app,Telegram,Discord)
+- and from Github
 
 #  Steps to Contribute?
 
