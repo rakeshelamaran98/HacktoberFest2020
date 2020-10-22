@@ -1,4 +1,4 @@
-# Note: If Steps felt difficult for you to understand see the video right [Here](https://www.youtube.com/results?search_query=how+to+add+link+in+github+file) 
+# Note: If Steps felt difficult for you to understand see the video right [Here](https://youtu.be/0BV1QCl8Az0) 
 
 # Where to Find Resources?
 
@@ -6,6 +6,8 @@
 - Your Linkedin Saved Items
 - Your Starred items in anywhere(Community Groups,What's app,Telegram,Discord)
 - and from Github
+
+# After your Pull request send me a [message](https://www.linkedin.com/in/rakeshelamaran98/) - To Merge Faster
 
 #  Steps to Contribute?
 
@@ -80,4 +82,10 @@ If you go to your repository on GitHub, you'll see a Compare & pull request butt
 Now submit the pull request. Leave a custom message if you want.
 
 ---
+
+## 8. After your pull request,Wait for Author to merge your request and check back your hacktoberfest account.
+
+- Congratulations for your 1st pull request.
+- Pull 3more requests to complete hacktoberfest challenge
+
 
