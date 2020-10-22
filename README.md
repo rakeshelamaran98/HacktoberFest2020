@@ -1,7 +1,6 @@
 # HacktoberFest2020
+
 Anyone can contribute in any domain
-
-
 
 # 💥 How to Contribute?
 
@@ -9,5 +8,9 @@ Anyone can contribute in any domain
 
 Fork this repository by clicking on the fork button on the top of this page.
 This will create a copy of this repository in your account.
+
+## 2. Clone it to your local system.
+
+Submit a pull request by using GitHub website, terminal, or VSCode.
 
 ---
