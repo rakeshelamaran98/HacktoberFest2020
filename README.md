@@ -1,9 +1,10 @@
 # About
 ✔️This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
+✔️Let's Bring it in One Place
 
 ✔️Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
-- Create a new folder:
+- Create a new folder in 
    - cd HacktoberFest2020/
    - Click Add File
    - Name your folder
@@ -35,6 +36,7 @@
  - Install [Git](https://youtu.be/JMsGZ0KR3sY)
  - Install [Visual Studio Code](https://youtu.be/KpzkPlh_HsU)
  - How to Contribute - 
+ - Contributors
  
  # Each and Every Contributor Name and Profile will be added in contributors list with proper credits
  
