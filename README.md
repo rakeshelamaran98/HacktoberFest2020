@@ -63,6 +63,8 @@ For example:
 - Resources Related to Cybersecurtiy
 - Resources Related to Development
 - Resources Related to Programming
+- Resources Related to DataScience
+- General Resources(only if you are not finding what you want)
 - Improving/Documenting The Readme
 - Checking for any errors in folders or links 
 
