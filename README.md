@@ -11,6 +11,10 @@ This will create a copy of this repository in your account.
 
 ## 2. Clone it to your local system.
 
-Submit a pull request by using GitHub website, terminal, or VSCode.
+Clone the repo by opening the terminal on your computer.
+
+## 3. Make your changes.
+
+Now you can make changes to the code.
 
 ---
