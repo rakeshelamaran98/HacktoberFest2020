@@ -1,4 +1,4 @@
-# HacktoberFest2020  -
+# HacktoberFest2020  - HacktoberFest 2020.Md
 
 # About
 ✔️This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
