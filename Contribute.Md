@@ -59,7 +59,8 @@ For example:
 
 It's finally that time when you commit your changes and leave a beautiful commit message behind. You can run the following commands:
 
-`git add .`  
+`git status`
+`git add --all`  
 `git commit -m "<Message>"`  
 For example:  
 `git commit -m "Added a Hacking Tips"`
