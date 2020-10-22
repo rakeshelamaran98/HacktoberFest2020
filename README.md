@@ -1,6 +1,9 @@
 # HacktoberFest2020 
 
-Anyone can contribute in any Domain as you wish.Not find what you are looking?
+# About
+✔️This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
+
+✔️Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
 - Create a new folder:
    - cd HacktoberFest2020/
@@ -16,13 +19,9 @@ Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
 ---
 
+# Give a star 🌟. Get your projects merged quickly on valid pull requests.
 
-
-# 📌About
-This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
-
-
-#  How to Contribute?
+#  Steps to Contribute?
 
 ## 1. Fork this repository
 
