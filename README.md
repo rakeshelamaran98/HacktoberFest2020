@@ -35,8 +35,8 @@ Git Installation Video - https://youtu.be/JMsGZ0KR3sY
  - Read About HacktoberFest 2020 - [Here](https://github.com/rakeshelamaran98/HacktoberFest2020/blob/main/HacktoberFest%202020.Md)
  - Steps to contribute - [Here](https://github.com/rakeshelamaran98/HacktoberFest2020/blob/main/Contribute.Md)
  - Signup For HacktoberFest - 
- - Install Git - 
- - Install Visual Studio Code - https://youtu.be/KpzkPlh_HsU
+ - Install [Git](https://youtu.be/JMsGZ0KR3sY)
+ - Install [Visual Studio Code] (https://youtu.be/KpzkPlh_HsU)
  - How to Contribute - 
  
 
