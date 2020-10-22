@@ -1,3 +1,6 @@
+# Note: If Steps felt difficult for you to understand see the video right [Here](https://www.youtube.com/results?search_query=how+to+add+link+in+github+file) 
+
+
 #  Steps to Contribute?
 
 ## 1. Fork this repository
