@@ -33,12 +33,13 @@
 
  - Read About HacktoberFest 2020 - [Here](https://github.com/rakeshelamaran98/HacktoberFest2020/blob/main/HacktoberFest%202020.Md)
  - Steps to contribute - [Here](https://github.com/rakeshelamaran98/HacktoberFest2020/blob/main/Contribute.Md)
- - How to [Contribute] Video(https://youtu.be/0BV1QCl8Az0) 
+ - How to [Contribute Video](https://youtu.be/0BV1QCl8Az0) 
  - Signup For [HacktoberFest](https://youtu.be/8VR_AwCvpVM)
  - Install [Git](https://youtu.be/JMsGZ0KR3sY)
  - Install [Visual Studio Code](https://youtu.be/KpzkPlh_HsU)
  - Configure Default [Git Credentials](https://youtu.be/WKhrc-mGlkA)
  - Contributors [List](https://github.com/rakeshelamaran98/HacktoberFest2020/blob/main/Contributors%20List.Md)
+ - Connect me with LinkedIn if you [Need help?](https://www.linkedin.com/in/rakeshelamaran98/)
  
  # Each and Every Contributor Name and Profile will be added in contributors list with proper credits
  
