@@ -43,3 +43,9 @@
  
  # Each and Every Contributor Name and Profile will be added in contributors list with proper credits
  
+ # Author's Note
+ 
+ -This is my first hacktoberfest challenge.Anyone can take part in this easily
+ -It's not too late to start.Contribute Now
+ -[Know More](https://rakeshelamaran.tech/)
+ 
