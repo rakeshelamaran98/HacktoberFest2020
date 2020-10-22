@@ -1,8 +1,9 @@
 # About
-✔️This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
-✔️Let's Bring it in One Place
+-✔️This Repository is to curate the resources used by an individual. It can be in the form of learning material,Links, scripts, projects, algorithms, etc.
 
-✔️Anyone can contribute in any Domain as you wish.Not find what you are looking?
+-✔️Let's Bring it in One Place
+
+-✔️Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
 - Create a new folder in 
    - cd HacktoberFest2020/
