@@ -2,11 +2,19 @@
 
 Anyone can contribute in any Domain as you wish.Not find what you are looking?
 
-- Create a new folder 
-- Give Suitable title
-- Add Resources
+- Create a new folder:
+   - cd HacktoberFest2020/
+   - Click Add File
+   - Name your folder
+        `/test`
+   - Name your file
+        `/test/resources`
+- Give Suitable title to your folder and file
+- Add your Resources
 
-Author will sort and merge accordingly
+📌Author will sort and merge accordingly
+
+---
 
 
 
