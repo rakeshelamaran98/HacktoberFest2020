@@ -37,6 +37,7 @@
  - Install [Git](https://youtu.be/JMsGZ0KR3sY)
  - Install [Visual Studio Code](https://youtu.be/KpzkPlh_HsU)
  - How to Contribute - 
+ - Congigure Default [Git Credentials](https://youtu.be/WKhrc-mGlkA)
  - Contributors List - 
  
  # Each and Every Contributor Name and Profile will be added in contributors list with proper credits
