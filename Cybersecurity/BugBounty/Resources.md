@@ -1,4 +1,27 @@
-## Add BugBounty Resources
+##  BugBounty Resources
+A comprehensive curated list of Bug Bounty Resources 
+
+## Table of Contents
+- [Getting Started](#getting-started)
+- [Tools](#tools)
+- [Cheat Sheet](#cheat-sheet)
+- [Crowdsouces Platforms](#platforms)
+
+### Getting Started
+  1 Web Security                                       
+    - [Basics](https://www.hacker101.com/sessions/web_in_depth) 
+    - [Concepts](https://github.com/vasanthk/web-security-basics)
+  
+  2 Networking 
+    - [Basics](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+    - [Concepts](https://null-byte.wonderhowto.com/how-to/networking-basics/)
+ 
+ 3 Programming
+    - [Bash](https://linuxconfig.org/bash-scripting-tutorial-for-beginners)
+    - [Linux](https://www.guru99.com/linux-commands-cheat-sheet.html)
+    - [JavaScript](https://www.lynda.com/JavaScript-tutorials/Ethical-Hacking-JavaScript/758646-2.html)
+    - [Python](https://analyticsindiamag.com/8-free-resources-to-learn-ethical-hacking-with-python/)
+    
 ### Tools
 ---
 #### _Web Content Scanner_
@@ -123,8 +146,31 @@
            http://www.theirsite.com@yoursite.com/
 ```
 ***
-### Resources
-| CheatSheet                                               |  
-|----------------------------------------------------------|
-| [Mobile- Pentest](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) |
-| [NMap](https://github.com/jasonniebauer/Nmap-Cheatsheet) |
+### Cheat Sheet
+| CheatSheet                                               | PoC                                               |   
+|----------------------------------------------------------|---------------------------------------------------|
+| [Mobile- Pentest](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet) | [XSS](http://www.xsses.com/) |
+| [NMap](https://github.com/jasonniebauer/Nmap-Cheatsheet) | hackerone reports                                 |
+| [CEH](https://scadahacker.com/library/Documents/Cheat_Sheets/Hacking%20-%20CEH%20Cheat%20Sheet%20Exercises.pdf)|
+
+---
+### Platforms
+- [HackerOne](https://hackerone.com/)
+- [Bugcrowd](https://bugcrowd.com/)
+- [YesWeHack](https://yeswehack.com/)
+- [intigriti](https://intigriti.com/)
+- [Cobalt](https://cobalt.io/)
+- [Bountysource](https://www.bountysource.com/)
+- [Bounty Factory](https://bountyfactory.io/)
+- [Coder Bounty](http://www.coderbounty.com/)
+- [FreedomSponsors](https://freedomsponsors.org/)
+- [FOSS Factory](http://www.fossfactory.org/)
+- [Synack](https://www.synack.com/)
+- [HackenProof](https://hackenproof.com/)
+- [Detectify](https://cs.detectify.com/)
+- [Bugbountyjp](https://bugbounty.jp/)
+- [Safehats](https://safehats.com/)
+- [BugbountyHQ](https://www.bugbountyhq.com/)
+- [Hackerhive](https://hackerhive.io/)
+- [Hacktrophy](https://hacktrophy.com/)
+- [AntiHACK](https://www.antihack.me/)
