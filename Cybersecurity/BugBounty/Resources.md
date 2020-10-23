@@ -1,5 +1,5 @@
 ##  BugBounty Resources
-A comprehensive curated list of Bug Bounty Resources 
+A comprehensive curated list of Bug Bounty Resources.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
