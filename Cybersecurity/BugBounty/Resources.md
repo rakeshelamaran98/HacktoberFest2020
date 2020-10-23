@@ -1,7 +1,7 @@
 ##  BugBounty Resources
 A comprehensive curated list of Bug Bounty Resources.
 
-## Table of Contents
+## Table of Content
 - [Getting Started](#getting-started)
 - [Tools](#tools)
 - [Cheat Sheet](#cheat-sheet)
