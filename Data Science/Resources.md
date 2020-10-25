@@ -1,4 +1,5 @@
 ## Add AI,ML Resources
+
 ### Index
 ---
 - [AI COURSES](#ai-courses)
@@ -146,3 +147,16 @@
 * [Knowledge Engineering Review](http://journals.cambridge.org/action/displayJournal?jid=KER)
 * [Minds and Machines](http://www.springer.com/journal/11023)
 * [Progress in Artificial Intelligence ](http://www.springer.com/journal/13748)
+=======
+
+- [Kaggle](https://www.kaggle.com/)
+
+- [DataCamp](https://www.datacamp.com/)
+
+- [Analytics Vidhya](https://courses.analyticsvidhya.com/)
+
+- [DataQuest](https://www.dataquest.io/)
+
+## Youtube tutorials
+
+- [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig)
