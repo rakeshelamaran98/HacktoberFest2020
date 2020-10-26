@@ -24,6 +24,7 @@
 
 [Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst?trk=li-data-become-en&src=li-other&veh=blog.linkedin.com%7Cli-other)
 
+[Financial analyst](https://opportunity.linkedin.com/skills-for-in-demand-jobs/financial-analyst?trk=li-jobsindemand-financial-en)
 
 ## YouTube
 
