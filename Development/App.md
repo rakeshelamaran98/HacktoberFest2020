@@ -27,7 +27,7 @@
 
 ### YouTube
 
-[YOUTUBE](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
+[Playlist](https://www.youtube.com/playlist?list=PLOU2XLYxmsIK0r_D-zWcmJ1plIcDNnRkK)
 
 
 
