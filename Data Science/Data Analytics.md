@@ -20,6 +20,11 @@
 
 [Get Started With EDA](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce)
 
+## Course
+
+[Become a Data Analyst](https://www.linkedin.com/learning/paths/become-a-data-analyst?trk=li-data-become-en&src=li-other&veh=blog.linkedin.com%7Cli-other)
+
+
 ## YouTube
 
 [Intro To Data Analysis & Visualisation In Python](https://www.youtube.com/watch?v=a9UrKTVEeZA)
