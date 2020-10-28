@@ -35,7 +35,65 @@ http://tiny.cc/jdf7ht
 
 • 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 𝗚𝘂𝗶𝗱𝗲 𝗯𝘆 𝗥𝗮𝗻𝗼𝗿𝗲𝘅 - http://tiny.cc/fsdh54545
 
+
+
 • 𝗣𝗲𝗻𝗲𝘁𝗿𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝘀𝘁𝗶𝗻𝗴: 𝗦𝘁𝗲𝗽-𝗯𝘆-𝗦𝘁𝗲𝗽 𝗚𝘂𝗶𝗱𝗲, 𝗦𝘁𝗮𝗴𝗲𝘀, 𝗠𝗲𝘁𝗵𝗼𝗱𝘀 𝗮𝗻𝗱 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 - http://tiny.cc/hreq0i
 
 • 𝗕𝗲𝘀𝘁 𝗣𝗿𝗮𝗰𝘁𝗶𝗰𝗲𝘀 𝗳𝗼𝗿 𝗪𝗲𝗯 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝘂𝗿𝗶𝘁𝘆 𝗧𝗲𝘀𝘁𝗶𝗻𝗴 - http://tiny.cc/1lIldio0
 
+### Mobile Pentesting resources
+- [MSTG - OWASP](https://github.com/OWASP/owasp-mstg)
+* [Secure an Android Device](https://source.android.com/security)
+* [Security tips](https://developer.android.com/training/articles/security-tips)
+
+#### Books
+ * [Android Cookbook](https://androidcookbook.com/)
+ * [Android Hacker's Handbook](https://www.amazon.com/Android-Hackers-Handbook-Joshua-Drake/dp/111860864X)
+ 
+ #### Labs
+  
+* [OVAA (Oversecured Vulnerable Android App)](https://github.com/oversecured/ovaa)
+* [DIVA (Damn insecure and vulnerable App)](https://github.com/payatu/diva-android)
+* [SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+* [Damn Vulnerable Hybrid Mobile App (DVHMA)](https://github.com/logicalhacking/DVHMA)
+* [OWASP GoatDroid](https://github.com/jackMannino/OWASP-GoatDroid-Project)
+* [Android-InsecureBankv2](https://github.com/dineshshetty/Android-InsecureBankv2)
+* [Android-security](https://github.com/rafaeltoledo/android-security)
+* [VulnDroid](https://github.com/shahenshah99/VulnDroid)
+* [FridaLab](https://rossmarks.uk/blog/fridalab/)
+* [Santoku Linux - Mobile Security VM](https://santoku-linux.com/)
+* [Vuldroid](https://github.com/jaiswalakshansh/Vuldroid)
+
+#### Others
+* [Dexofuzzy](https://www.virusbulletin.com/virusbulletin/2019/11/dexofuzzy-android-malware-similarity-clustering-method-using-opcode-sequence/)
+* [Chasing the Joker](https://docs.google.com/presentation/d/1sFGAERaNRuEORaH06MmZKeFRqpJo1ol1xFieUa1X_OA/edit#slide=id.p1)
+* [Side Channel Attacks in 4G and 5G Cellular Networks-Slides](https://i.blackhat.com/eu-19/Thursday/eu-19-Hussain-Side-Channel-Attacks-In-4G-And-5G-Cellular-Networks.pdf)
+* [Shodan.io-mobile-app for Android](https://github.com/PaulSec/Shodan.io-mobile-app)
+
+#### iOS
+* [iOS Security](https://www.cse.wustl.edu/~jain/cse571-14/ftp/ios_security/index.html)
+* [Basic iOS Apps Security Testing lab](https://medium.com/@ehsahil/basic-ios-apps-security-testing-lab-1-2bf37c2a7d15)
+* [IOS Application security – Setting up a mobile pentesting platform](https://resources.infosecinstitute.com/ios-application-security-part-1-setting-up-a-mobile-pentesting-platform/#gref)
+* [Collection of the most common vulnerabilities found in iOS applications](https://github.com/felixgr/secure-ios-app-dev)
+* [IOS_Application_Security_Testing_Cheat_Sheet](https://www.owasp.org/index.php/IOS_Application_Security_Testing_Cheat_Sheet)
+* [OWASP iOS Basic Security Testing](https://mobile-security.gitbook.io/mobile-security-testing-guide/ios-testing-guide/0x06b-basic-security-testing)
+* [Dynamic analysis of iOS apps w/o Jailbreak](https://medium.com/@ansjdnakjdnajkd/dynamic-analysis-of-ios-apps-wo-jailbreak-1481ab3020d8)
+* [iOS Application Injection](https://arjunbrar.com/post/ios-application-injection)
+
+#### Books
+
+* [Hacking and Securing iOS Applications: Stealing Data, Hijacking Software, and How to Prevent It](https://www.amazon.com/Hacking-Securing-iOS-Applications-Hijacking/dp/1449318746)
+* [iOS Penetration Testing](https://www.apress.com/gp/book/9781484223543)
+* [iOS App Security, Penetration Testing, and Development](https://www.allysonomalley.com/)
+* [IOS Hacker's Handbook](https://www.amazon.com/iOS-Hackers-Handbook-Charlie-Miller/dp/1118204123)
+* [Hacking iOS Applications a detailed testing guide](https://web.securityinnovation.com/hubfs/iOS%20Hacking%20Guide.pdf)
+* [Develop iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+* [iOS Programming Cookbook](https://www.packtpub.com/in/application-development/ios-programming-cookbook)
+
+#### Labs
+
+* [OWASP iGoat](https://www.owasp.org/index.php/OWASP_iGoat_Tool_Project)
+* [Damn Vulnerable iOS App (DVIA) v2](https://github.com/prateek147/DVIA-v2)
+* [Damn Vulnerable iOS App (DVIA) v1](https://github.com/prateek147/DVIA)
+* [iPhoneLabs](https://github.com/SecurityCompass/iPhoneLabs)
+* [iOS-Attack-Defense](https://github.com/ManicodeSecurity/iOS-Attack-Defense)
