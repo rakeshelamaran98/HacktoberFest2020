@@ -20,6 +20,7 @@
 ### Technical MCQ
 
 - One Place to learn all Subjects - [SanFoundry](https://www.sanfoundry.com/)
+- C Programming & Data Structures - [2braces](https://www.2braces.com/)
 
 ### Cheat Sheet
 - [Qualtitative Aptitude](https://pdf.bankexamstoday.com/raman_files/QT-Cheatsheet.pdf)
