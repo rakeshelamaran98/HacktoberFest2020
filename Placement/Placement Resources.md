@@ -17,6 +17,10 @@
 - [LeetCode](https://leetcode.com/problemset/all/)
 - [SoloLearn](https://www.sololearn.com/)
 
+### Technical MCQ
+
+- One Place to learn all Subjects - [SanFoundry](https://www.sanfoundry.com/)
+
 ### Cheat Sheet
 - [Qualtitative Aptitude](https://pdf.bankexamstoday.com/raman_files/QT-Cheatsheet.pdf)
 - [Quants formula](https://insideiim.com/cat-quant-formula-cheat-sheet)
@@ -25,6 +29,8 @@
 
 ### YouTube
 - [Feel Free To Learn](https://www.youtube.com/channel/UCtmn-DsF4BhPug-ff9LiDAA)
+- [CareerRide](https://www.youtube.com/channel/UCjDHKp8AGNucJmEBMCk0NGg)
+- [FreshersWorld](https://www.youtube.com/channel/UCEFTTJFLp4GipA7BLZNTXvA)
 - [TalentSprint](https://www.youtube.com/user/TSBankersChoice)
 - [Placement Season](https://www.youtube.com/channel/UCvg2b2wPAQZuFkkD1VWV5Xg)
 - [Self Pace Aptitude](https://www.youtube.com/channel/UCAgnYS0lFKYExFnFzLsafJA/videos)
