@@ -7,3 +7,4 @@
 - [Raghavi Srinivasan](https://github.com/Raghavi94)
 - [Rakesh Kumar](https://github.com/rakesh1635)
 - [Feronika Nur Maghfiro](https://github.com/feronikanm)
+- [Basil Labib ](https://github.com/basil08)
