@@ -11,9 +11,7 @@
 - ✔️ Looking to add more resources? 
 - ✔️ Connect me with [LinkedIn](https://www.linkedin.com/in/rakeshelamaran98/)
  
- # Each and Every Contributor Name and Profile is added in contributors list with proper credits.
- 
- # Thanks to All the contributors who made this possible❤️
+ 📌 Each and Every Contributor Name and Profile is added in contributors list with proper credits.
  
  # Contributors List & Profile
 
@@ -26,9 +24,11 @@
 - [Feronika Nur Maghfiro](https://github.com/feronikanm)
 - [Basil Labib ](https://github.com/basil08)
 
+ 📌 Thanks to All the contributors who made this possible❤️
+
   # Author's Note
  
- - This Repo is still open anyone can contribute
- - Follow Me on [Twitter](https://twitter.com/rakeshoffcl)
- - [Know More](https://rakeshelamaran.tech/)
- - Read Blogs Related to [Tech](https://medium.com/techiepedia)
+ - ✔️This Repo is still open anyone can contribute
+ - ✔️Follow Me on [Twitter](https://twitter.com/rakeshoffcl)
+ - ✔️[Know More](https://rakeshelamaran.tech/)
+ - ✔️ Read Blogs Related to [Tech](https://medium.com/techiepedia)
