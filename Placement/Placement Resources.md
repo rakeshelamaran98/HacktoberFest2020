@@ -7,9 +7,10 @@
 - [Testpot](https://testpot.com/)
 - [Freshers World](https://www.freshersworld.com/)
 - [Career Ride](https://www.careerride.com/)
+- [Prepbytes](https://www.prepbytes.com/)
 - [GeeksForGeeks](https://www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/)
 - [Placement Preparation Guide](https://www.geeksforgeeks.org/placement-preparation-guide/)
-- [Prepbytes](https://www.prepbytes.com/)
+
 
 ### Coding
 - [HackerRank](https://www.hackerrank.com/)
